@@ -1,16 +1,11 @@
-### Hi there 👋
+```ts
+const about = {
+    name: "renz vital",
+    code: ["javascript", "python", "html5", "css3"],
+    tools: ["react", "redux", "flask", "tailwindcss", "sass/scss", "firebase", "insomnia"],
+    challenge: ["expand my skillset", "learn more about testing"],
+    interests: ["hackathons", "reading", "archery"],
+}
+```
 
-<!--
-**rvitality/rvitality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**Portfolio**](https://rvitality.github.io/v1/) · [**Hackathons**](https://devpost.com/rvitality) · [**Email**](mailto:vital.renzjohn@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/renz-vital/) · [**Résumé**](https://drive.google.com/file/d/15TECqTAE7kPx2Eke7WOq6UK_YqD_H6e7/view?usp=share_link)
